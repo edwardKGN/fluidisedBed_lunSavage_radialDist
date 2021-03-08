@@ -1,0 +1,5 @@
+rm -r log.gmshToFoam
+rm -r log.checkMesh
+rm -r log.transformPoints
+rm -r log.topoSet
+rm -r constant/polyMesh
